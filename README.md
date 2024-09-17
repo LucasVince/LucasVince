@@ -14,7 +14,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-# 🎧 Some Musics i like(I Hear it to code)
+# 🎧 Some Musics i like
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=312kskvcpzkdomibid7ecombm2ze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312kskvcpzkdomibid7ecombm2ze)

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Learning FrontEnd Technologies<br>🌱 Future FullStack Developer
+🔭 Learning Back End and Database Technologies<br>🌱 Future FullStack Developer
 
 
 # 💻 Front-End Stack:

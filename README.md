@@ -13,18 +13,18 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LucasVince&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LucasVince&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVince&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-# 🎧 Some Musics i like
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=312kskvcpzkdomibid7ecombm2ze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312kskvcpzkdomibid7ecombm2ze)
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasVince&theme=gruvbox" alt="Profile Details" />
+</p>
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasVince&theme=gruvbox&exclude=" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasVince&theme=gruvbox&exclude=" alt="Most Commit Language" />
+</p>
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasVince&theme=gruvbox" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasVince&theme=gruvbox&utcOffset=3" alt="Productive Time" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

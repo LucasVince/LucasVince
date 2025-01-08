@@ -15,16 +15,27 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasVince&theme=gruvbox" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasVince&theme=radical" alt="Profile Details" />
 </p>
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasVince&theme=gruvbox&exclude=" alt="Repos Per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasVince&theme=gruvbox&exclude=" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasVince&theme=radical&exclude=" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasVince&theme=radical&exclude=" alt="Most Commit Language" />
 </p>
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasVince&theme=gruvbox" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasVince&theme=gruvbox&utcOffset=3" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasVince&theme=radical" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasVince&theme=radical&utcOffset=3" alt="Productive Time" />
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LucasVince&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LucasVince&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Learning Back End and Database Technologies<br>🌱 Future Back End Developer
+🔭 Learning Back End and Database Technologies /|\ React and Others React Stuffs /|\ Starting With Machine Learning<br>🌱 Future Full-Stack and AI Developer
 
 
 # 💻 Front-End Stack:
